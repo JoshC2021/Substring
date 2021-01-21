@@ -1,0 +1,13 @@
+C:\Users\Josh\source\repos\SubstringDemonstration\SubstringDemonstration\bin\Debug\netcoreapp3.1\SubstringDemonstration.exe
+C:\Users\Josh\source\repos\SubstringDemonstration\SubstringDemonstration\bin\Debug\netcoreapp3.1\SubstringDemonstration.deps.json
+C:\Users\Josh\source\repos\SubstringDemonstration\SubstringDemonstration\bin\Debug\netcoreapp3.1\SubstringDemonstration.runtimeconfig.json
+C:\Users\Josh\source\repos\SubstringDemonstration\SubstringDemonstration\bin\Debug\netcoreapp3.1\SubstringDemonstration.runtimeconfig.dev.json
+C:\Users\Josh\source\repos\SubstringDemonstration\SubstringDemonstration\bin\Debug\netcoreapp3.1\SubstringDemonstration.dll
+C:\Users\Josh\source\repos\SubstringDemonstration\SubstringDemonstration\bin\Debug\netcoreapp3.1\SubstringDemonstration.pdb
+C:\Users\Josh\source\repos\SubstringDemonstration\SubstringDemonstration\obj\Debug\netcoreapp3.1\SubstringDemonstration.csprojAssemblyReference.cache
+C:\Users\Josh\source\repos\SubstringDemonstration\SubstringDemonstration\obj\Debug\netcoreapp3.1\SubstringDemonstration.AssemblyInfoInputs.cache
+C:\Users\Josh\source\repos\SubstringDemonstration\SubstringDemonstration\obj\Debug\netcoreapp3.1\SubstringDemonstration.AssemblyInfo.cs
+C:\Users\Josh\source\repos\SubstringDemonstration\SubstringDemonstration\obj\Debug\netcoreapp3.1\SubstringDemonstration.csproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\SubstringDemonstration\SubstringDemonstration\obj\Debug\netcoreapp3.1\SubstringDemonstration.dll
+C:\Users\Josh\source\repos\SubstringDemonstration\SubstringDemonstration\obj\Debug\netcoreapp3.1\SubstringDemonstration.pdb
+C:\Users\Josh\source\repos\SubstringDemonstration\SubstringDemonstration\obj\Debug\netcoreapp3.1\SubstringDemonstration.genruntimeconfig.cache
